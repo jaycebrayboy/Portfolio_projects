@@ -5,8 +5,7 @@ Projects I worked on while attending the Business Intelligence Analytics TripleT
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | NYC Airbnb | The project task was to analyze the vacation rental market and identify which properties the client should target. [HERE](https://docs.google.com/spreadsheets/d/1HzqWPGCgzFcit1o-qatRueYbX_TjLkGgUbHsXnz_sqA/edit?usp=sharing) |
-| 2 | Zuber Ride-Share | |[Screen Recording 2023-08-23 at 9.40.27 PM.zip](https://github.com/jaycebrayboy/TripleTen_projects/files/12644280/Screen.Recording.2023-08-23.at.9.40.27.PM.zip)
-
+| 2 | Zuber Ride-Share | 
 | 3 | E-Commerce Analysis | The project task was to analyze raw transaction logs and understand how well the website was converting product page views into purchases. [HERE](https://docs.google.com/spreadsheets/d/1dDCcZkHiLngDuoXBzeXUVW6uv44KLRcBcEE6URc5dFw/edit?usp=sharing) |
 | 4 | Superstore Business Metrics | The project task was to analyze business metrics for every day of the week. [HERE](https://public.tableau.com/app/profile/jayce.brayboy/viz/Tableau_Containers_16918118764360/BusinessMetricsbyDayofWeek)
 | 5 | Returning Worries | The project task was to prepare an analysis to help executives understand causes for heightened return activty. [HERE](https://public.tableau.com/app/profile/jayce.brayboy/viz/ReturningWorries/Story)
