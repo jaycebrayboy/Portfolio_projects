@@ -4,9 +4,13 @@ Projects I worked on while attending the Business Intelligence Analytics TripleT
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | NYC Airbnb | The project task was to analyze the vacation rental market and identify which properties the client should target. [HERE](https://docs.google.com/spreadsheets/d/1HzqWPGCgzFcit1o-qatRueYbX_TjLkGgUbHsXnz_sqA/edit?usp=sharing) | 
-| 2 | E-Commerce Analysis | The project task was to analyze raw transaction logs and understand how well the website was converting product page views into purchases. [HERE](https://docs.google.com/spreadsheets/d/1dDCcZkHiLngDuoXBzeXUVW6uv44KLRcBcEE6URc5dFw/edit?usp=sharing) |
-| 3 | Superstore Business Metrics | The project task was to analyze business metrics for every day of the week. [HERE](https://public.tableau.com/app/profile/jayce.brayboy/viz/Tableau_Containers_16918118764360/BusinessMetricsbyDayofWeek)
-| 4 | Returning Worries | The project task was to prepare an analysis to help executives understand causes for heightened return activty. [HERE](https://public.tableau.com/app/profile/jayce.brayboy/viz/ReturningWorries/Story)
-| 5 | Zomato Business Performance | The project task was to analyze the business performance of Zomato's restauraunts and provide report and a vizualization of my findings. [HERE](https://public.tableau.com/views/BusinessPerformanceofZomato/BusinessPerformanceofZomato?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+| 1 | NYC Airbnb | The project task was to analyze the vacation rental market and identify which properties the client should target. [HERE](https://github.com/jaycebrayboy/NYC-Airbnb) | 
+| 2 | E-Commerce Analysis | The project task was to analyze raw transaction logs and understand how well the website was converting product page views into purchases. [HERE](https://github.com/jaycebrayboy/ECommerce-Analysis) |
+| 3 | Superstore Business Metrics | The project task was to analyze business metrics for every day of the week. [HERE](https://github.com/jaycebrayboy/Business-Metrics)
+| 4 | Returning Worries | The project task was to prepare an analysis to help executives understand causes for heightened return activty. [HERE](https://github.com/jaycebrayboy/Returning-Research)
+| 5 | Zomato Business Performance | The project task was to analyze the business performance of Zomato's restauraunts and provide report and a vizualization of my findings. [HERE](https://github.com/jaycebrayboy/Zomato-Business-Performance)
+| 6 | Shopify Analysis | In this project, I reviewed the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites. The task was to figure out what key factors play into the success of a Shopify app using Power BI. [HERE](https://github.com/jaycebrayboy/Shopify-Analysis)
+| 7 | Zuber Database | Identified patterns in the database to understand passenger preferences and the impact of external factors on rides. Analyzed data from competitors and tested a hypothesis about the impact of weather on ride frequency. [HERE](https://github.com/jaycebrayboy/Zuber-Database)
+
+
 
