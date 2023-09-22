@@ -1,5 +1,5 @@
 # Portfolio_Projects
-Projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.
+Technical projects I have worked on. In these projects, I have used Google Sheets, Tableau, SQL, and Power BI.
 
 
 | Project number | Title | Description |
